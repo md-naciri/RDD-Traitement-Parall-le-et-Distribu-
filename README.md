@@ -14,8 +14,9 @@ Le projet implémente deux analyses principales:
 Le fichier `ventes.txt` contient des données au format:
 ```
 date ville produit prix
-27/01/2025 Tangier AsusZenBook 5950
-10/02/2024 Tangier HPEnvy 6126
+28/01/2023 Agadir Sac 280
+02/02/2023 Casablanca Montre 450
+05/02/2023 Rabat Chaussures 250
 ```
 
 ## Exécution locale
